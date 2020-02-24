@@ -1,0 +1,18 @@
+{
+    "user_id_list": ["6005952121"],
+    "filter": 1,
+    "since_date": "2012-01-01",
+    "write_mode": ["csv"],
+    "original_pic_download": 1,
+    "retweet_pic_download": 0,
+    "original_video_download": 1,
+    "retweet_video_download": 0,
+    "cookie": "your cookie",
+    "mysql_config": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root1",
+        "password": "root1",
+        "charset": "utf8mb4"
+    }
+}
